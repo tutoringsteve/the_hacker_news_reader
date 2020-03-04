@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="title_activity_web_view">WebViewActivity</string>
+    <string name="title_activity_favorites">FavoritesActivity</string>
+</resources>
